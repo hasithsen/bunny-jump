@@ -2,4 +2,4 @@
 
 Simple web game with Phaser 3 based on [this book](https://ourcade.co/books/infinite-jumper-phaser3/).
 
-![gameplay.png][screenshots/gameplay.png](/screenshots/gameplay.PNG?raw=true "Gameplay")
+![gameplay.png](/screenshots/gameplay.PNG?raw=true "Gameplay")
